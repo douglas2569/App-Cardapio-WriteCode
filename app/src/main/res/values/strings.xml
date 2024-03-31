@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App Cardapio</string>
+    <string name="button_appetizers">Entradas</string>
+    <string name="button_main_courses">Principais</string>
+    <string name="button_beverages">Bebidas</string>
+    <string name="button_desserts">Sobremesas</string>
+    <string name="button_finalize_order">Finalizar Pedido</string>
+    <string name="text_header">Cardápio Virtual</string>
+    <string name="text_sub_header">Selecione seu pedido, marcando-o ou desmarcando-o</string>
+    <string name="text_total_order">Total: R$ 0.00 </string>
+
+</resources>

@@ -1,0 +1,266 @@
+{
+  "appetizers": [
+    {
+      "id": "1",
+      "name": "Bruschetta",
+      "image": "bruschetta.jpg",
+      "preparation_time": "15 min",
+      "price": "8.00",
+      "domain": "appetizers"
+    },
+    {
+      "id": "2",
+      "name": "Caldinho de Feijão",
+      "image": "caldinho_feijao.jpg",
+      "preparation_time": "20 min",
+      "price": "6.00",
+      "domain": "appetizers"
+    },
+    {
+      "id": "3",
+      "name": "Croquete de Carne",
+      "image": "croquete_carne.jpg",
+      "preparation_time": "25 min",
+      "price": "7.50",
+      "domain": "appetizers"
+    },
+    {
+      "id": "4",
+      "name": "Batata Frita",
+      "image": "french_fries.jpg",
+      "preparation_time": "10 min",
+      "price": "5.00",
+      "domain": "appetizers"
+    },
+    {
+      "id": "5",
+      "name": "Pastel de Queijo",
+      "image": "pastel_queijo.jpg",
+      "preparation_time": "30 min",
+      "price": "6.50",
+      "domain": "appetizers"
+    },
+    {
+      "id": "6",
+      "name": "Camarão Empanado",
+      "image": "shrimp_tempura.jpg",
+      "preparation_time": "20 min",
+      "price": "9.00",
+      "domain": "appetizers"
+    },
+    {
+      "id": "7",
+      "name": "Bolinho de Bacalhau",
+      "image": "codfish_balls.jpg",
+      "preparation_time": "35 min",
+      "price": "8.50",
+      "domain": "appetizers"
+    },
+    {
+      "id": "8",
+      "name": "Enroladinho de Salsicha",
+      "image": "sausage_roll.jpg",
+      "preparation_time": "25 min",
+      "price": "5.50",
+      "domain": "appetizers"
+    }
+  ],
+  "main_courses": [
+    {
+      "id": "1",
+      "name": "Bife",
+      "image": "steak.jpg",
+      "preparation_time": "40 min",
+      "price": "15.00",
+      "domain": "main_courses"
+    },
+    {
+      "id": "2",
+      "name": "Massa",
+      "image": "pasta.jpg",
+      "preparation_time": "20 min",
+      "price": "10.00",
+      "domain": "main_courses"
+    },
+    {
+      "id": "3",
+      "name": "Pizza",
+      "image": "pizza.jpg",
+      "preparation_time": "30 min",
+      "price": "12.00",
+      "domain": "main_courses"
+    },
+    {
+      "id": "4",
+      "name": "Hambúrguer",
+      "image": "burger.jpg",
+      "preparation_time": "25 min",
+      "price": "8.00",
+      "domain": "main_courses"
+    },
+    {
+      "id": "5",
+      "name": "Peixe e Batatas Fritas",
+      "image": "fish_and_chips.jpg",
+      "preparation_time": "35 min",
+      "price": "11.00",
+      "domain": "main_courses"
+    },
+    {
+      "id": "6",
+      "name": "Lasanha",
+      "image": "lasagna.jpg",
+      "preparation_time": "50 min",
+      "price": "14.00",
+      "domain": "main_courses"
+    },
+    {
+      "id": "7",
+      "name": "Sushi",
+      "image": "sushi.jpg",
+      "preparation_time": "45 min",
+      "price": "13.00",
+      "domain": "main_courses"
+    },
+    {
+      "id": "8",
+      "name": "Frango ao Curry",
+      "image": "chicken_curry.jpg",
+      "preparation_time": "30 min",
+      "price": "11.50",
+      "domain": "main_courses"
+    }
+  ],
+  "desserts": [
+    {
+      "id": "1",
+      "name": "Bolo",
+      "image": "cake.jpg",
+      "preparation_time": "30 min",
+      "price": "5.00",
+      "domain": "desserts"
+    },
+    {
+      "id": "2",
+      "name": "Sorvete",
+      "image": "ice_cream.jpg",
+      "preparation_time": "10 min",
+      "price": "3.00",
+      "domain": "desserts"
+    },
+    {
+      "id": "3",
+      "name": "Pudim",
+      "image": "pudding.jpg",
+      "preparation_time": "15 min",
+      "price": "4.00",
+      "domain": "desserts"
+    },
+    {
+      "id": "4",
+      "name": "Cheesecake",
+      "image": "cheesecake.jpg",
+      "preparation_time": "45 min",
+      "price": "6.00",
+      "domain": "desserts"
+    },
+    {
+      "id": "5",
+      "name": "Brownie",
+      "image": "brownie.jpg",
+      "preparation_time": "20 min",
+      "price": "4.50",
+      "domain": "desserts"
+    },
+    {
+      "id": "6",
+      "name": "Cupcake",
+      "image": "cupcake.jpg",
+      "preparation_time": "25 min",
+      "price": "3.50",
+      "domain": "desserts"
+    },
+    {
+      "id": "7",
+      "name": "Tiramisu",
+      "image": "tiramisu.jpg",
+      "preparation_time": "35 min",
+      "price": "7.00",
+      "domain": "desserts"
+    },
+    {
+      "id": "8",
+      "name": "Salada de Frutas",
+      "image": "fruit_salad.jpg",
+      "preparation_time": "15 min",
+      "price": "5.50",
+      "domain": "desserts"
+    }
+  ],
+  "beverages": [
+    {
+      "id": "1",
+      "name": "Água Mineral",
+      "image": "water.jpg",
+      "preparation_time": "",
+      "price": "2.00",
+      "domain": "beverages"
+    },
+    {
+      "id": "2",
+      "name": "Refrigerante de Cola",
+      "image": "cola.jpg",
+      "preparation_time": "",
+      "price": "4.00",
+      "domain": "beverages"
+    },
+    {
+      "id": "3",
+      "name": "Suco de Laranja",
+      "image": "orange_juice.jpg",
+      "preparation_time": "",
+      "price": "5.00",
+      "domain": "beverages"
+    },
+    {
+      "id": "4",
+      "name": "Cerveja",
+      "image": "beer.jpg",
+      "preparation_time": "",
+      "price": "6.00",
+      "domain": "beverages"
+    },
+    {
+      "id": "5",
+      "name": "Vinho Tinto",
+      "image": "red_wine.jpg",
+      "preparation_time": "",
+      "price": "10.00",
+      "domain": "beverages"
+    },
+    {
+      "id": "6",
+      "name": "Coquetel de Frutas",
+      "image": "fruit_cocktail.jpg",
+      "preparation_time": "",
+      "price": "8.00",
+      "domain": "beverages"
+    },
+    {
+      "id": "7",
+      "name": "Chá Gelado",
+      "image": "iced_tea.jpg",
+      "preparation_time": "",
+      "price": "4.50",
+      "domain": "beverages"
+    },
+    {
+      "id": "8",
+      "name": "Café Expresso",
+      "image": "espresso.jpg",
+      "preparation_time": "",
+      "price": "3.50",
+      "domain": "beverages"
+    }
+  ]
+}
